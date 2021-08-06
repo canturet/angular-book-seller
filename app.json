@@ -1,0 +1,8 @@
+{
+  "name": "canturet-book-seller-ui",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
